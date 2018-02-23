@@ -1,7 +1,7 @@
 #include <iostream>
 
  using namespace std;
-
+//Данная программа является учебной//
  int main()
  {
  int a, b;
